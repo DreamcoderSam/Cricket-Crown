@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bodyColor">#95afc0</color>
+    <color name="teams">#4834d4</color>
+    <color name="fixture">#f9ca24</color>
+    <color name="stadium">#be2edd</color>
+    <color name="iccrank">#192a56</color>
+    <color name="point_table">#44bd32</color>
+    <color name="result">#EA2027</color>
+    <color name="about">#1B1464</color>
+    <color name="history">#ff7979</color>
+    <color name="venue_back">#636e72</color>
+    <color name="venue_back_lin">#b2bec3</color>
+    <color name="country_bd">#d1ccc0</color>
+    <color name="country_en">#eccc68</color>
+    <color name="country_aus">#D6B58D</color>
+    <color name="country_in">#ffeaa7</color>
+    <color name="country_pk">#7ed6df</color>
+    <color name="country_af">#9696D8</color>
+    <color name="country_nz">#95afc0</color>
+    <color name="country_sa">#D6A2E8</color>
+    <color name="country_sl">#58B19F</color>
+    <color name="country_wi">#fab1a0</color>
+
+
+
+</resources>

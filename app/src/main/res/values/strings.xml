@@ -1,0 +1,362 @@
+<resources>
+    <string name="app_name">Cricket Crown</string>
+
+    //CountDown text start
+    <string name="will_start">ICC Cricket World Cup 2019 at England is going to start in....</string>
+    <string name="days">Days</string>
+    <string name="hour">Hours</string>
+    <string name="minute">Minutes</string>
+    <string name="seconds">Seconds</string>
+    //CountDown text ends
+    <string name="zero">0</string>
+    //for homepage text start
+    <string name="teams">Teams &amp; Players</string>
+    <string name="teams_text">Check the squad</string>
+
+    <string name="fixtures">Fixtures</string>
+    <string name="fixtures_text">Check the schedule</string>
+
+    <string name="stadium">Stadium</string>
+    <string name="stadium_text">The Playground</string>
+
+    <string name="ranking">ICC Ranking</string>
+    <string name="ranking_text">Ranking Points</string>
+
+    <string name="point_table">Point Table</string>
+    <string name="point_table_text">Teams Points</string>
+
+    <string name="match_result">Result</string>
+    <string name="match_result_text">Match Result</string>
+
+    <string name="about">About WCC19</string>
+    <string name="about_text">Learn More</string>
+
+    <string name="history">WCC History</string>
+    <string name="history_text">Previous History</string>
+
+    //Fixture Text
+    <string name="one_match">Match 1</string>
+    <string name="one_match_Team">England vs South Africa</string>
+    <string name="one_match_date_time">May 30, Thu 09:30 AM GMT</string>
+    <string name="one_match_location">Kennington Oval, London</string>
+
+    <string name="two_match">Match 2</string>
+    <string name="two_match_Team">West Indies vs Pakistan</string>
+    <string name="two_match_date_time">May 31, Fri 09:30 AM GMT</string>
+    <string name="two_match_location">Trent Bridge, Nottingham</string>
+
+    <string name="three_match">Match 3</string>
+    <string name="three_match_Team">New Zealand vs Sri Lanka</string>
+    <string name="three_match_date_time">Jun 01 09:30 AM GMT</string>
+    <string name="three_match_location">Sophia Gardens, Cardiff</string>
+
+    <string name="four_match">Match 4</string>
+    <string name="four_match_Team">Afghanistan vs Australia</string>
+    <string name="four_match_date_time">Jun 01 12:30 PM GMT</string>
+    <string name="four_match_location">County Ground, Bristol</string>
+
+    <string name="five_match">Match 5</string>
+    <string name="five_match_Team">South Africa vs Bangladesh</string>
+    <string name="five_match_date_time">Jun 02, Sun 09:30 AM GMT</string>
+    <string name="five_match_location">Kennington Oval, London</string>
+
+    <string name="six_match">Match 6</string>
+    <string name="six_match_Team">England vs Pakistan</string>
+    <string name="six_match_date_time">Jun 03, Mon 09:30 AM GMT</string>
+    <string name="six_match_location">Trent Bridge, Nottingham</string>
+
+    <string name="seven_match">Match 7</string>
+    <string name="seven_match_Team">Afghanistan vs Sri Lanka</string>
+    <string name="seven_match_date_time">Jun 04, Tue 09:30 AM GMT</string>
+    <string name="seven_match_location">Sophia Gardens, Cardiff</string>
+
+    <string name="eight_match">Match 8</string>
+    <string name="eight_match_Team">South Africa vs India</string>
+    <string name="eight_match_date_time">Jun 05, Wed 09:30 AM GMT</string>
+    <string name="eight_match_location">The Rose Bowl, Southampton</string>
+
+    <string name="nine_match">Match 9</string>
+    <string name="nine_match_Team">Bangladesh vs New Zealand</string>
+    <string name="nine_match_date_time">Jun 05, Wed 12:30 PM GMT</string>
+    <string name="nine_match_location">Kennington Oval, London</string>
+
+    <string name="ten_match">Match 10</string>
+    <string name="ten_match_Team">Australia vs West Indies</string>
+    <string name="ten_match_date_time">Jun 06, Thu 09:30 AM GMT</string>
+    <string name="ten_match_location">Trent Bridge, Nottingham</string>
+
+    <string name="oneOne_match">Match 11</string>
+    <string name="oneOne_match_Team">Pakistan vs Sri Lanka</string>
+    <string name="oneOne_match_date_time">Jun 07, Fri 09:30 AM GMT</string>
+    <string name="oneOne_match_location">County Ground, Bristol</string>
+
+    <string name="oneTwo_match">Match 12</string>
+    <string name="oneTwo_match_Team">England vs Bangladesh</string>
+    <string name="oneTwo_match_date_time">Jun 08, Sat 09:30 AM GMT</string>
+    <string name="oneTwo_match_location">Sophia Gardens, Cardiff</string>
+
+    <string name="oneThree_match">Match 13</string>
+    <string name="oneThree_match_Team">Afghanistan vs New Zealand</string>
+    <string name="oneThree_match_date_time">Jun 08, Sat 12:30 PM GMT</string>
+    <string name="oneThree_match_location">The Cooper Associates County Ground, Taunton</string>
+
+    <string name="oneFour_match">Match 14</string>
+    <string name="oneFour_match_Team">India vs Australia</string>
+    <string name="oneFour_match_location">Kennington Oval, London</string>
+    <string name="oneFour_match_date_time">Jun 09, Sun 09:30 AM GMT</string>
+
+    <string name="oneFive_match">Match 15</string>
+    <string name="oneFive_match_Team">South Africa vs West Indies</string>
+    <string name="oneFive_match_date_time">Jun 10, Mon 09:30 AM GMT</string>
+    <string name="oneFive_match_location">The Rose Bowl, Southampton</string>
+
+    <string name="oneSix_match">Match 16</string>
+    <string name="oneSix_match_Team">Bangladesh vs Sri Lanka</string>
+    <string name="oneSix_match_date_time">Jun 11, Tue 09:30 AM GMT</string>
+    <string name="oneSix_match_location">County Ground, Bristol</string>
+
+    <string name="oneSeven_match">Match 17</string>
+    <string name="oneSeven_match_Team">Australia vs Pakistan</string>
+    <string name="oneSeven_match_date_time">Jun 12, Wed 09:30 AM GMT</string>
+    <string name="oneSeven_match_location">The Cooper Associates County Ground, Taunton</string>
+
+    <string name="oneEight_match">Match 18</string>
+    <string name="oneEight_match_Team">India vs New Zealand</string>
+    <string name="oneEight_match_date_time">Jun 13, Thu 09:30 AM GMT</string>
+    <string name="oneEight_match_location">Trent Bridge, Nottingham</string>
+
+    <string name="oneNine_match">Match 19</string>
+    <string name="oneNine_match_Team">England vs West Indies</string>
+    <string name="oneNine_match_date_time">Jun 14, Fri 09:30 AM GMT</string>
+    <string name="oneNine_match_location">The Rose Bowl, Southampton</string>
+
+    <string name="twoZero_match">Match 20</string>
+    <string name="twoZero_match_Team">Sri Lanka vs Australia</string>
+    <string name="twoZero_match_date_time">Jun 15, Sat 09:30 AM GMT</string>
+    <string name="twoZero_match_location">Kennington Oval, London</string>
+
+    <string name="twoOne_match">Match 21</string>
+    <string name="twoOne_match_Team">South Africa vs Afghanistan</string>
+    <string name="twoOne_match_date_time">Jun 15, Sat 12:30 PM GMT</string>
+    <string name="twoOne_match_location">Sophia Gardens, Cardiff</string>
+
+    <string name="twoTwo_match">Match 22</string>
+    <string name="twoTwo_match_Team">India vs Pakistan</string>
+    <string name="twoTwo_match_date_time">Jun 16, Sun 09:30 AM GMT</string>
+    <string name="twoTwo_match_location">Old Trafford, Manchester</string>
+
+    <string name="twoThree_match">Match 23</string>
+    <string name="twoThree_match_Team">West Indies vs Bangladesh</string>
+    <string name="twoThree_match_date_time">Jun 17, Mon 09:30 AM GMT</string>
+    <string name="twoThree_match_location">The Cooper Associates County Ground, Taunton</string>
+
+    <string name="twoFour_match">Match 24</string>
+    <string name="twoFour_match_Team">England vs Afghanistan</string>
+    <string name="twoFour_match_date_time">Jun 18, Tue 09:30 AM GMT</string>
+    <string name="twoFour_match_location">Old Trafford, Manchester</string>
+
+    <string name="twoFive_match">Match 25</string>
+    <string name="twoFive_match_Team">New Zealand vs South Africa</string>
+    <string name="twoFive_match_date_time">Jun 19, Wed 09:30 AM GMT</string>
+    <string name="twoFive_match_location">Edgbaston, Birmingham</string>
+
+    <string name="twoSix_match">Match 26</string>
+    <string name="twoSix_match_Team">Australia vs Bangladesh</string>
+    <string name="twoSix_match_date_time">Jun 20, Thu 09:30 AM GMT</string>
+    <string name="twoSix_match_location">Trent Bridge, Nottingham</string>
+
+    <string name="twoSeven_match">Match 27</string>
+    <string name="twoSeven_match_Team">England vs Sri Lanka</string>
+    <string name="twoSeven_match_date_time">Jun 21, Fri 09:30 AM GMT</string>
+    <string name="twoSeven_match_location">Headingley, Leeds</string>
+
+    <string name="twoEight_match">Match 28</string>
+    <string name="twoEight_match_Team">India vs Afghanistan</string>
+    <string name="twoEight_match_date_time">Jun 22, Sat 09:30 AM GMT</string>
+    <string name="twoEight_match_location">The Rose Bowl, Southampton</string>
+
+    <string name="twoNine_match">Match 29</string>
+    <string name="twoNine_match_Team">West Indies vs New Zealand</string>
+    <string name="twoNine_match_date_time">Jun 22, Sat 12:30 PM GMT</string>
+    <string name="twoNine_match_location">Old Trafford, Manchester</string>
+
+    <string name="threeZero_match">Match 30</string>
+    <string name="threeZero_match_Team">Pakistan vs South Africa</string>
+    <string name="threeZero_match_date_time">Jun 23, Sun 09:30 AM GMT</string>
+    <string name="threeZero_match_location">Lord\'s, London</string>
+
+    <string name="threeOne_match">Match 31</string>
+    <string name="threeOne_match_Team">Bangladesh vs Afghanistan</string>
+    <string name="threeOne_match_date_time">Jun 24, Mon 09:30 AM GMT</string>
+    <string name="threeOne_match_location">The Rose Bowl, Southampton</string>
+
+    <string name="threeTwo_match">Match 32</string>
+    <string name="threeTwo_match_Team">England vs Australia</string>
+    <string name="threeTwo_match_date_time">Jun 25, Tue 09:30 AM GMT</string>
+    <string name="threeTwo_match_location">Lord\'s, London</string>
+
+    <string name="threeThree_match">Match 33</string>
+    <string name="threeThree_match_Team">New Zealand vs Pakistan</string>
+    <string name="threeThree_match_date_time">Jun 26, Wed 09:30 AM GMT</string>
+    <string name="threeThree_match_location">Edgbaston, Birmingham</string>
+
+    <string name="threeFour_match">Match 34</string>
+    <string name="threeFour_match_Team">West Indies vs India</string>
+    <string name="threeFour_match_date_time">Jun 27, Thu 09:30 AM GMT</string>
+    <string name="threeFour_match_location">Old Trafford, Manchester</string>
+
+    <string name="threeFive_match">Match 35</string>
+    <string name="threeFive_match_Team">Sri Lanka vs South Africa</string>
+    <string name="threeFive_match_date_time">Jun 28, Fri 09:30 AM GMT</string>
+    <string name="threeFive_match_location">Riverside Ground, Chester-le-Street</string>
+
+    <string name="threeSix_match">Match 36</string>
+    <string name="threeSix_match_Team">Pakistan vs Afghanistan</string>
+    <string name="threeSix_match_date_time">Jun 29, Sat 09:30 AM GMT</string>
+    <string name="threeSix_match_location">Headingley, Leeds</string>
+
+    <string name="threeSeven_match">Match 37</string>
+    <string name="threeSeven_match_Team">New Zealand vs Australia</string>
+    <string name="threeSeven_match_date_time">Jun 29, Sat 12:30 PM GMT</string>
+    <string name="threeSeven_match_location">Lord\'s, London</string>
+
+    <string name="threeEight_match">Match 38</string>
+    <string name="threeEight_match_Team">England vs India</string>
+    <string name="threeEight_match_date_time">Jun 30, Sun 09:30 AM GMT</string>
+    <string name="threeEight_match_location">Edgbaston, Birmingham</string>
+
+    <string name="threeNine_match">Match 39</string>
+    <string name="threeNine_match_Team">Sri Lanka vs West Indies</string>
+    <string name="threeNine_match_date_time">Jul 01, Mon 09:30 AM GMT</string>
+    <string name="threeNine_match_location">Riverside Ground, Chester-le-Street</string>
+
+    <string name="fourZero_match">Match 40</string>
+    <string name="fourZero_match_Team">Bangladesh vs India</string>
+    <string name="fourZero_match_date_time">Jul 02, Tue 09:30 AM GMT</string>
+    <string name="fourZero_match_location">Edgbaston, Birmingham</string>
+
+    <string name="fourOne_match">Match 41</string>
+    <string name="fourOne_match_Team">England vs New Zealand</string>
+    <string name="fourOne_match_date_time">Jul 03, Wed 09:30 AM GMT</string>
+    <string name="fourOne_match_location">Riverside Ground, Chester-le-Street</string>
+
+    <string name="fourTwo_match">Match 42</string>
+    <string name="fourTwo_match_Team">Afghanistan vs West Indies</string>
+    <string name="fourTwo_match_date_time">Jul 04, Thu 09:30 AM GMT</string>
+    <string name="fourTwo_match_location">Headingley, Leeds</string>
+
+    <string name="fourThree_match">Match 43</string>
+    <string name="fourThree_match_Team">Pakistan vs Bangladesh</string>
+    <string name="fourThree_match_date_time">Jul 05, Fri 09:30 AM GMT</string>
+    <string name="fourThree_match_location">Lord\'s, London</string>
+
+    <string name="fourFour_match">Match 44</string>
+    <string name="fourFour_match_Team">Sri Lanka vs India</string>
+    <string name="fourFour_match_date_time">Jul 06, Sat 09:30 AM GMT</string>
+    <string name="fourFour_match_location">Headingley, Leeds</string>
+
+    <string name="fourFive_match">Match 45</string>
+    <string name="fourFive_match_Team">Australia vs South Africa</string>
+    <string name="fourFive_match_date_time">Jul 06, Sat 12:30 PM GMT</string>
+    <string name="fourFive_match_location">Old Trafford, Manchester</string>
+
+    <string name="first_semifinal">1st Semi-Final</string>
+    <string name="first_semifinal_Team">TBC vs TBC,(1 v 4)</string>
+    <string name="first_semifinal_date_time">Jul 09, Tue 09:30 AM GMT</string>
+    <string name="first_semifinal_location">Old Trafford, Manchester</string>
+
+    <string name="second_semifinal">2nd Semi-Final</string>
+    <string name="second_semifinal_Team">TBC vs TBC, (2 v 3)</string>
+    <string name="second_semifinal_date_time">Jul 11, Thu 09:30 AM GMT</string>
+    <string name="second_semifinal_location">Edgbaston, Birmingham</string>
+
+    <string name="final_match">Final Match</string>
+    <string name="final_match_Team">TBC vs TBC</string>
+    <string name="final_match_date_time">Jul 14, Sun 09:30 AM GMT</string>
+    <string name="final_match_location">Lord\'s, London</string>
+    //Fixture Text Ends
+    <string name="imageText">CC</string>
+    //Teams Name
+    <string name="england">England</string>
+    <string name="bangladesh">Bangladesh</string>
+    <string name="india">India</string>
+    <string name="pakistan">Pakistan</string>
+    <string name="australia">Australia</string>
+    <string name="afgan">Afghanistan</string>
+    <string name="srilanka">Sri Lanka</string>
+    <string name="southAfrica">South Africa</string>
+    <string name="westIndies">West Indies</string>
+    <string name="newZeland">New Zealand</string>
+    //Teams Name Ends
+
+    //Venue Starts
+    <string name="v1">Venue: Kennington Oval</string>
+    <string name="v1l">Location: London, England</string>
+    <string name="v1c">Capacity: 25,500</string>
+    <string name="v1m">Match: Match 1, Match 5, Match 9, Match 14, Match 20</string>
+
+    <string name="v2">Venue: Trent Bridge</string>
+    <string name="v2l">Location: Nottingham, England</string>
+    <string name="v2c">Capacity: 17,500</string>
+    <string name="v2m">Match: Match 2, Match 6, Match 10, Match 18, Match 26</string>
+
+    <string name="v3">Venue: Bristol County Ground</string>
+    <string name="v3l">Location: Bristol, England</string>
+    <string name="v3c">Capacity: 17,500</string>
+    <string name="v3m">Match: Match 4, Match 11, Match 16</string>
+
+    <string name="v4">Venue: The Rose Bowl</string>
+    <string name="v4l">Location: Southampton, England</string>
+    <string name="v4c">Capacity: 25,000</string>
+    <string name="v4m">Match: Match 8, Match 15, Match 19, Match 28, Match 31</string>
+
+    <string name="v5">Venue: County Ground</string>
+    <string name="v5l">Location: Taunton, England</string>
+    <string name="v5c">Capacity: 12,500</string>
+    <string name="v5m">Match: Match 13, Match 17, Match 23</string>
+
+    <string name="v6">Venue: Emirates Old Trafford</string>
+    <string name="v6l">Location: Manchester, England</string>
+    <string name="v6c">Capacity: 26,000</string>
+    <string name="v6m">Match: Match 22, Match 24, Match 29, Match 34, Match 45, 1st Semi-Final</string>
+
+    <string name="v7">Venue: Edgbaston</string>
+    <string name="v7l">Location: Birmingham, England</string>
+    <string name="v7c">Capacity: 25,000</string>
+    <string name="v7m">Match: Match 25, Match 33, Match 38, Match 40, 2nd Semi-Final</string>
+
+    <string name="v8">Venue: Headingley</string>
+    <string name="v8l">Location: Leeds, England</string>
+    <string name="v8c">Capacity: 18,350</string>
+    <string name="v8m">Match: Match 27, Match 36, Match 42, Match 44</string>
+
+    <string name="v9">Venue: Lord\'s</string>
+    <string name="v9l">Location: London, England</string>
+    <string name="v9c">Capacity: 28,000</string>
+    <string name="v9m">Match: Match 30, Match 32, Match 37, Match 43, FINAL</string>
+
+    <string name="v10">Venue: Riverside Ground</string>
+    <string name="v10l">Location: Chester-le-Street, England</string>
+    <string name="v10c">Capacity: 20,000</string>
+    <string name="v10m">Match: Match 35, Match 39, Match 41</string>
+
+    <string name="v11">Venue: Sophia Gardens</string>
+    <string name="v11l">Location: Cardiff, Wales</string>
+    <string name="v11c">Capacity: 15,643</string>
+    <string name="v11m">Match: Match 3, Match 7, Match 12, Match 21</string>
+
+    //Venue Ends
+    //squad starts
+    <string name="bdSquad">BAN Squad</string>
+    <string name="inSquad">IND Squad</string>
+    <string name="afSquad">AFG Squad</string>
+    <string name="auSquad">AUS Squad</string>
+    <string name="enSquad">ENG Squad</string>
+    <string name="nzSquad">NZ Squad</string>
+    <string name="pkSquad">PAK Squad</string>
+    <string name="saSquad">SA Squad</string>
+    <string name="slSquad">SL Squad</string>
+    <string name="wiSquad">WI Squad</string>
+
+
+</resources>
